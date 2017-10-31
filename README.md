@@ -1,4 +1,4 @@
-#Restaurant Automation System (RAS):
+# Restaurant Automation System (RAS):
 
 A restaurant owner wants to computerize his order processing, billing, and accounting activities. He also expects
 the computer to generate statistical report about sales of different items. A major goal of this computerization
