@@ -8,7 +8,7 @@ package StartGUI;
 
 /**
  *
- * @author Prateek Jhunjhunwala
+ * @author Himanshu Verma
  */
 public class Clerk extends javax.swing.JFrame {
 
